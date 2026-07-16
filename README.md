@@ -72,7 +72,7 @@ I am a passionate software developer who enjoys building practical applications 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=django,flask,flutter,react"/>
 </p>
 
 ### Databases
