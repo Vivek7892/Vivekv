@@ -1,152 +1,164 @@
-<!-- Banner -->
-<p align="center">
-  <img alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-</p>
+# Hi 👋, I'm Vivek V
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=0A66C2&center=true&vCenter=true&width=800&lines=Flutter+Developer;Full+Stack+Web+Developer;AI+%26+RAG+Chatbot+Developer;Open+to+Internships+%26+Opportunities" />
-</p>
+**Computer Science & Data Science Student | Flutter Developer | Full Stack Developer | AI Enthusiast**
 
-<!-- Portfolio Button -->
-<p align="right">
-  <a href="https://vivek7892.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+I am a passionate software developer who enjoys building practical applications that solve real-world problems. My primary interests include **Flutter Development**, **Full Stack Web Development**, and **Generative AI**. I enjoy taking projects from idea to deployment while continuously learning modern technologies.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.E. Computer Science & Engineering (Data Science)
+- 📱 Flutter Mobile Application Developer
+- 🌐 Full Stack Web Developer
+- 🤖 AI & RAG Chatbot Developer
+- 🔍 Currently learning Cloud Deployment & Advanced Backend Development
+- 💼 Open to Internships and Software Development Opportunities
+
+---
+
+## 🚀 Current Projects
+
+- 🤖 AI-Powered Student Assistant using LangChain & LLMs
+- 📱 IoT Home Automation Mobile Application (Flutter)
+- 🌐 Full Stack Web Applications using Node.js & Flask
+
+---
+
+## 🌐 Portfolio & Contact
+
+<p align="left">
+<a href="https://vivek7892.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:vivekv1008@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vivekv1008/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Vivek7892" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Vivek V</strong>
-</h1>
-
-<h3>Computer Science & Data Science Student | Flutter Developer | AI & Web Enthusiast</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I am a Computer Science & Data Science undergraduate and aspiring Software Developer focused on building practical real-world solutions.
-    My primary interests are Mobile Application Development using Flutter, Backend Development, and Generative AI applications.
-  </p>
-
-  <p>
-    I enjoy converting ideas into working products — from UI design to deployment.
-    I have hands-on experience building full-stack applications, AI chatbots using Retrieval Augmented Generation (RAG), and IoT automation systems.
-  </p>
-
-  <p>
-    🔭 Currently Working On:
-    <br>• AI-Powered Student Assistant Chatbot using LangChain & LLMs
-    <br>• IoT Home Automation Mobile App (Flutter)
-    <br>• Full-Stack Web Applications (Node.js & Flask)
-  </p>
-
-  <p>
-    💡 Interests: Software Development • Mobile Apps • Backend Systems • AI Integration
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:vivekvvivekv70@gmail.com">
-      <img src="https://img.shields.io/badge/📧_vivekvvivekv70@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/🎓_BE_CSE_(Data_Science)_Student-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Internships-1e1e2e?style=for-the-badge" />
-  </p>
-</div>
-
-<br clear="all" />
-
----
-
-## 🌐 Connect With Me  <a href="https://github.com/Vivek7892">
+## 📊 GitHub Profile
 
 <p align="left">
 
-  <a href="https://github.com/Vivek7892">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:vivekv1008@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
- <a href="https://www.linkedin.com/in/vivekv1008/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Vivek7892&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-  <a href="https://vivek7892.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+<img src="https://img.shields.io/github/followers/Vivek7892?label=Followers&style=flat&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/Vivek7892?label=Stars&style=flat&color=yellow"/>
 
 </p>
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack
 
-<p align="center">
-<table>
-<tr>
+### Languages
 
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,dart,mongodb" />
-</td>
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,dart,js,html,css"/>
+</p>
 
-<td width="50%" align="center">
-<h3>📚 Frameworks & Technologies</h3>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express" />
-</td>
+### Frameworks & Libraries
 
-</tr>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,flask"/>
+</p>
 
-<tr>
+### Databases
 
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
-</td>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+</p>
 
-<td width="50%" align="center">
-<h3>🧰 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio" />
-</td>
+### Tools
 
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vivek7892&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🌱 Currently Learning
+## 📈 GitHub Statistics
 
 <p align="center">
-• Data Structures & Algorithms (Python) <br>
-• Backend Development (Flask & Node.js) <br>
-• Retrieval Augmented Generation (LangChain) <br>
-• Cloud Deployment
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek7892&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek7892&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek7892&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## ❤️ Support
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development (Node.js & Flask)
+- LangChain & Retrieval-Augmented Generation (RAG)
+- Docker
+- Cloud Deployment (AWS & Render)
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://buymeacoffee.com/vivekvvivex">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"/>
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek7892&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
 </p>
 
+---
+
+## 💡 Interests
+
+- Mobile App Development
+- Artificial Intelligence
+- Backend Development
+- REST APIs
+- Open Source
+- Cloud Technologies
+
+---
+
+## 📫 Reach Me
+
+- 📧 **Email:** vivekv1008@gmail.com
+- 🌐 **Portfolio:** https://vivek7892.github.io
+- 💼 **LinkedIn:** https://linkedin.com/in/vivekv1008
+- 🐙 **GitHub:** https://github.com/Vivek7892
+
+---
+
+## ⭐ Support
+
+If you like my work, consider:
+
+- ⭐ Star my repositories
+- 🍴 Fork interesting projects
+- 🤝 Connect with me on LinkedIn
+- 💼 Reach out for collaboration or internship opportunities
+
+---
 <p align="center">
-If you like my projects, consider giving a ⭐ to my repositories!
+
+**Thanks for visiting my profile! 😊**
+
 </p>
