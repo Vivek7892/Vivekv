@@ -28,11 +28,11 @@ I am a passionate software developer who enjoys building practical applications 
 ## 🌐 Portfolio & Contact
 
 <p align="left">
-<a href="https://vivek7892.github.io/" target="_blank">
+<a href="https://vivekv.me/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:vivekv1008@gmail.com">
+<a href="mailto:vivekvvivekv70@gmail.com">
 <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -140,8 +140,8 @@ I am a passionate software developer who enjoys building practical applications 
 
 ## 📫 Reach Me
 
-- 📧 **Email:** vivekv1008@gmail.com
-- 🌐 **Portfolio:** https://vivek7892.github.io
+- 📧 **Email:** vivekvvivekv70@gmail.com
+- 🌐 **Portfolio:** https://vivekv.me
 - 💼 **LinkedIn:** https://linkedin.com/in/vivekv1008
 - 🐙 **GitHub:** https://github.com/Vivek7892
 
