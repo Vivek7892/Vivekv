@@ -21,7 +21,7 @@ I am a passionate software developer who enjoys building practical applications 
 
 - 🤖 AI-Powered Student Assistant using LangChain & LLMs
 - 📱 IoT Home Automation Mobile Application (Flutter)
-- 🌐 Full Stack Web Applications using Node.js & Flask
+- 🌐 Full Stack Web Applications using React & Django
 
 ---
 
@@ -110,7 +110,7 @@ I am a passionate software developer who enjoys building practical applications 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Backend Development (Node.js & Flask)
+- Backend Development (Django & Flask)
 - LangChain & Retrieval-Augmented Generation (RAG)
 - Docker
 - Cloud Deployment (AWS & Render)
